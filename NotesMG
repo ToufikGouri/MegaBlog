@@ -1,0 +1,18 @@
+Created this app using vite 
+npm create vite@latest
+
+Dependencies downloaded:
+
+npm install @reduxjs/toolkit react-redux
+npm insall react-router-dom
+npm insall appwrite
+npm install @tinymce/tinymce-react
+npm install html-react-parser
+npm install react-hook-form
+
+
+We use appwrite for the backend part.
+We use tinymce for visual code editor.
+We use html-react-parser because we will save the data in html tags form so we need to parse them.
+We use react-hook-form for creating auth form.
+
